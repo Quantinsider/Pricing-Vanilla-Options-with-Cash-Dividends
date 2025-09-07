@@ -36,6 +36,8 @@ Providing calibration routines for implied volatilities and borrow rates.
 
 Visualizing differences in implied vol surfaces across models.
 
+Youtube Video link for Replication of the Paper -
+
 ## References
 
 Klassen, T. R. (2015). Pricing Vanilla Options with Cash Dividends. SSRN: http://ssrn.com/abstract=2634051
