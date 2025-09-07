@@ -8,17 +8,17 @@ The paper addresses one of the most debated topics in option pricing: how to ext
 
 In markets with dividend-paying underliers (stocks, ETFs, indices), pricing vanilla options becomes non-trivial. The paper explores different approaches:
 
-## Spot Model (piecewise GBM) – assumes the stock price follows GBM between ex-dividend dates with jumps at dividend times.
+Spot Model (piecewise GBM) – assumes the stock price follows GBM between ex-dividend dates with jumps at dividend times.
 
-## Hybrid Models (shifted GBM) – forward-adjusted models that incorporate dividends into a shifted stochastic process.
+Hybrid Models (shifted GBM) – forward-adjusted models that incorporate dividends into a shifted stochastic process.
 
-## Full Hybrid Model (FHM)
+Full Hybrid Model (FHM)
 
-## Partial Hybrid Model (PHM, aka Escrowed Dividend Model)
+Partial Hybrid Model (PHM, aka Escrowed Dividend Model)
 
-## Spot-Strike Adjustment Model (SKA)
+Spot-Strike Adjustment Model (SKA)
 
-## Comparison of Models – in terms of arbitrage properties, calibration ease, volatility surfaces, and computational efficiency.
+Comparison of Models – in terms of arbitrage properties, calibration ease, volatility surfaces, and computational efficiency.
 
 The paper further develops tree-based methods for accurate and fast pricing of American and European vanilla options under dividend assumptions.
 
